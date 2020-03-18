@@ -10,4 +10,4 @@
 2. 若乘法表輸入的數值超過10，則只印出星號。
 
 **輸出成果** 
-[img]https://i.imgur.com/k6iTvlF.png[/img]
+![image](https://imgur.com/k6iTvlF)
