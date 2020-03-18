@@ -26,16 +26,16 @@ void multiply(int n){ //乘法副程式
 	
 	for (i = 1; i <= n; i++){
 		for (j = 1; j <= n; j++){
-			printf("%d*%d=%d ", i, j, (i * j)); //九九乘法表
+			printf("%2d*%d=%2d ", i, j, (i * j));
 		}
 		printf("\n");
 	}
 }
 
-void printstar(int n){ //星星副程式
+void printstar(int n){
 	int i; 
 	for (i = 0;i < n; i++){
-		printf("*"); //印出n個星星
+		printf("*");
 	}
-	printf("\n"); //換行
+	printf("\n");
 }
