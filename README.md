@@ -5,9 +5,13 @@
 **內容:**  
 練習TQC題庫
 
-**806:**  
+**題目806:**  
 1. 製作一個九九乘法表並加上星號的符號。
 2. 若乘法表輸入的數值超過10，則只印出星號。
 
 **輸出成果**   
-![image](https://i.imgur.com/k6iTvlF.png)
+![image](https://i.imgur.com/2RNFndb.png)
+
+**題目807:**  
+承上題，請將輸出樣式改成只輸出計算結果。
+![image](https://i.imgur.com/1kbu89X.png)
